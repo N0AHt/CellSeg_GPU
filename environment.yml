@@ -1,4 +1,4 @@
-name: cellseg2
+name: cellseg_tf2
 channels:
   - nvidia
   - conda-forge
