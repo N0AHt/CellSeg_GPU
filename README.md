@@ -1,3 +1,5 @@
+Updated to use tf2
+
 ## How to cite
 
 Click [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04570-9) to access CellSeg paper published in BMC Bioinformatics.
